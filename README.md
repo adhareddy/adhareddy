@@ -1,5 +1,16 @@
-# 💫 About Me:
-# Hi, I'm Adhareddy Y 👋<br><br>Electrical and Electronics Engineering student interested in Embedded Systems, VLSI Design, and Core Electronics.  <br>I enjoy building hardware-software solutions using microcontrollers, FPGA, and digital design concepts.<br><br>My interests include:<br>- 🔹 Embedded Firmware Development<br>- 🔹 VLSI & RTL Design<br>- 🔹 FPGA-Based Systems<br>- 🔹 IoT Applications<br>- 🔹 Power Electronics & Battery Systems<br>- 🔹 PCB Design and Hardware Debugging
+Hi, I'm Adhareddy Y 👋
+
+Electrical and Electronics Engineering student interested in Embedded Systems, VLSI Design, and Core Electronics.
+I enjoy building hardware-software solutions using microcontrollers, FPGA, and digital design concepts.
+
+My interests include:
+- 🔹 Embedded Firmware Development
+- 🔹 VLSI & RTL Design
+- 🔹 FPGA-Based Systems
+- 🔹 IoT Applications
+- 🔹 Power Electronics & Battery Systems
+- 🔹 PCB Design and Hardware Debugging
+
 
 
 ## 🌐 Socials:
